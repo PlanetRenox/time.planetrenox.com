@@ -6,6 +6,6 @@
     "dev": "wrangler pages dev ."
   },
   "dependencies": {
-    "ortus": "^0.1.3"
+    "ortus": "0.1.3"
   }
 }
